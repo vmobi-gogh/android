@@ -46,7 +46,7 @@
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="kernel/samsung/goghspr" name="vmobi-gogh/android_kernel_samsung_goghspr" />
-  <project path="kernel/samsung/goghvmu" name="android_kernel_samsung_goghvmu" />
+  <project path="kernel/samsung/goghvmu" name="vmobi-gogh/android_kernel_samsung_goghvmu" />
   <project path="vendor/samsung" name="vmobi-gogh/android_vendor_samsung" />
   <!-- END - GOGH DEVICE, KERNEL, VENDOR -->
   
