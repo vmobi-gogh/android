@@ -45,6 +45,18 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
+
+  <!-- START - GOGH DEVICE, KERNEL, VENDOR -->
+  <project path="device/samsung/gogh-common" name="vmobi-gogh/android_device_samsung_gogh-common" />
+ <project path="device/samsung/msm8960-common" name="xInterlopeRx/
+android_device_samsung_msm8960-common" />
+  <project path="device/samsung/goghspr" name="vmobi-gogh/android_device_samsung_goghspr" />
+  <project path="device/samsung/goghvmu" name="vmobi-gogh/android_device_samsung_goghvmu" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="kernel/samsung/d2" name="xInterlopeRx/android_kernel_samsung_d2" />
+  <project path="vendor/samsung" name="vmobi-gogh/android_vendor_samsung" />
+  <!-- END - GOGH DEVICE, KERNEL, VENDOR -->
+
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r3" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
