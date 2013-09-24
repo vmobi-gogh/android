@@ -53,7 +53,7 @@
   <project path="device/samsung/goghvmu" name="vmobi-gogh/android_device_samsung_goghvmu" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="kernel/samsung/d2" name="xInterlopeRx/android_kernel_samsung_d2" />
-  <project path="vendor/samsung/goghspr" name="xInterlopeRx/android_vendor_samsung_goghspr" />
+  <project path="vendor/samsung/goghspr" name="vmobi-gogh/android_vendor_samsung_goghspr" />
   <!-- END - GOGH DEVICE, KERNEL, VENDOR -->
 
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
