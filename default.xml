@@ -47,7 +47,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
 
   <!-- START - GOGH DEVICE, KERNEL, VENDOR -->
-  <project path="device/samsung/d2-common" name="xInterlopeRx/android_device_samsung_d2-common" />
+  <project path="device/samsung/d2-common" name="vmobi-gogh/android_device_samsung_d2-common" />
   <project path="device/samsung/msm8960-common" name="xInterlopeRx/android_device_samsung_msm8960-common" />
   <project path="device/samsung/goghspr" name="xInterlopeRx/android_device_samsung_goghspr" />
   <project path="device/samsung/goghvmu" name="vmobi-gogh/android_device_samsung_goghvmu" />
